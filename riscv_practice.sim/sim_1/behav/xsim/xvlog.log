@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_projects/riscv/riscv_practice/riscv_practice.srcs/sources_1/new/Clockworks.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Clockworks
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_projects/riscv/riscv_practice/riscv_practice.srcs/sources_1/new/SOC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-311] analyzing module Processor
+INFO: [VRFC 10-311] analyzing module SOC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/FPGA_projects/riscv/riscv_practice/riscv_practice.srcs/sim_1/new/bench_ 1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bench_1

@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../riscv_practice.srcs/sources_1/new/Clockworks.v" \
+"../../../../riscv_practice.srcs/sources_1/new/SOC.v" \
+"../../../../riscv_practice.srcs/sim_1/new/bench_ 1.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

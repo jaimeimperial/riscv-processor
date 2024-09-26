@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="bench_1_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="bench_1" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="787,752.545 ns"></ZoomStartTime>
+      <ZoomEndTime time="904,199.100 ns"></ZoomEndTime>
+      <Cursor1Time time="986,497.825 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="225"></NameColumnWidth>
+      <ValueColumnWidth column_width="99"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/bench_1/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/uut/CW/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/RXD" type="logic">
+      <obj_property name="ElementShortName">RXD</obj_property>
+      <obj_property name="ObjectShortName">RXD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/uut/CW/slow_CLK" type="array">
+      <obj_property name="ElementShortName">slow_CLK[15:0]</obj_property>
+      <obj_property name="ObjectShortName">slow_CLK[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/uut/resetn" type="logic">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/LEDS" type="array">
+      <obj_property name="ElementShortName">LEDS[4:0]</obj_property>
+      <obj_property name="ObjectShortName">LEDS[4:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/uut/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/TXD" type="logic">
+      <obj_property name="ElementShortName">TXD</obj_property>
+      <obj_property name="ObjectShortName">TXD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bench_1/prev_LEDS" type="array">
+      <obj_property name="ElementShortName">prev_LEDS[4:0]</obj_property>
+      <obj_property name="ObjectShortName">prev_LEDS[4:0]</obj_property>
+   </wvobject>
+</wave_config>
